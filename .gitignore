@@ -1,32 +1,8 @@
-# Prerequisites
-*.d
+#io <stream>
+using namespace std;
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+int main{
 
-# Precompiled Headers
-*.gch
-*.pch
+  cout << "Hello World!";
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+}
